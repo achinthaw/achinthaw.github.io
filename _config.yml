@@ -85,7 +85,7 @@ analytics:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4332.jpg"
+  avatar           : "profile1.jpg"
   name             : "Achintha Wijesinghe"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
