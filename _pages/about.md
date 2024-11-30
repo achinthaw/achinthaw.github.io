@@ -10,7 +10,7 @@ redirect_from:
 * I am a Ph.D. candidate at UC Davis under the supervision of [Prof. Zhi Ding](https://scholar.google.com/citations?user=G0oZBhUAAAAJ&hl=en) and collaboratively work with [Assistant Prof. Songyang Zhang](https://scholar.google.com/citations?user=cZI11G4AAAAJ&hl=en).
 * Former research intern at CSIRO-Data61 with [Dr. Kanchana Thilakarathna](https://scholar.google.com/citations?user=V-YM7ecAAAAJ&hl=en).
 * My research interests are Semantic/ Goal-Oriented Communication with generative AI, Federated Learning, and Computer Vision.
-* You can find more info. in my CV
+* You can find more info. in my [CV](https://github.com/achinthaw/achinthaw.github.io/blob/master/files/Resume_AW_updatedf.pdf)
 
 
 A data-driven personal website
